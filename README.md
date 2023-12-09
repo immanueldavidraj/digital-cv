@@ -33,7 +33,7 @@ Data Transformation Utility - Performance Optimization.
   - **_Technologies used:_** Python, Docker, JMeter, BashTool.
 <br><br>
 
-**Freelance Full Stack Web Developer** @ _(August 2017 - 2019)_ <br>
+**Freelance Full Stack Web Developer** _(August 2017 - 2019)_ <br>
   - Designed and developed tools for automating various maintenance and report generation/collection tasks.
   - 5G Registers UDM product Performance Automation
   - **_Technologies used:_** Python, Docker, JMeter, BashTool.
